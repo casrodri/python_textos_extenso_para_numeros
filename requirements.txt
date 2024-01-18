@@ -1,0 +1,2 @@
+deep_translator==1.11.4
+numerizer==0.2.3
